@@ -1,6 +1,17 @@
-# flutternext
+# Todo Application 
 
-A new Flutter project.
+A simple and intuitive Todo Application to help you stay organized and productive.
+
+![image](https://github.com/victor-mwangi/Flutter-Todo-Application/assets/46398938/6dc3167e-e63b-4bba-b1ca-90617a691790)
+![image](https://github.com/victor-mwangi/Flutter-Todo-Application/assets/46398938/8bd7071b-f433-424c-97c7-876e298befc1)
+
+## Features
+
+Highlight the key features of the Todo Application. 
+- Create, edit, and delete tasks
+- Mark tasks as completed
+- Organize tasks into categories or tags
+- User-friendly interface with a minimalistic taste
 
 ## Getting Started
 
