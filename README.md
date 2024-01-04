@@ -11,7 +11,7 @@ Highlight the key features of the Todo Application.
 - Create, edit, and delete tasks
 - Mark tasks as completed
 - Organize tasks into categories or tags
-- User-friendly interface with a minimalistic taste
+- User-friendly interface with a minimalistic taste and a dark theme
 
 ## Getting Started
 
