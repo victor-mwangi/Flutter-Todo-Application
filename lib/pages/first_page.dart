@@ -45,6 +45,7 @@ class _FirstPageState extends State<FirstPage> {
       appBar: AppBar(title: Text("1st Page")),
       body: _pages[_selectedIndex],
       // drawer: Drawer(
+
       //   backgroundColor: Colors.deepPurple[100],
       //   child: Column(children: [
       //     //Common to place a drawer header here
